@@ -1,12 +1,9 @@
 # 👋 Hi, I'm 1nrezz
 
-I'm a **Junior Backend Developer** with strong fundamentals in  
-**C, C++, Python, and SQL** 🧠⚙️  
-I actively work with **PostgreSQL, Linux, and Git** 🐧🗄️  
-and I’m also familiar with **HTML, CSS, JavaScript, and React** at a basic level 🌐✨
+I'm a **Junior Backend Developer** with strong fundamentals in **C, C++, Python, and SQL** 🧠⚙️  
+I actively work with **PostgreSQL, Linux, and Git** 🐧🗄️ and I’m also familiar with **HTML, CSS, JavaScript, and React** at a basic level 🌐✨
 
-I’m focused on **backend development**, building **APIs**, working with **databases**,  
-and designing **server-side logic** 🛠️☁️  
+I’m focused on **backend development**, building **APIs**, working with **databases**, and designing **server-side logic** 🛠️☁️  
 I'm a **fast learner**, **responsible**, and highly **motivated** to gain real commercial experience and grow as a backend developer 📈🔥
 
 ---
@@ -43,28 +40,6 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 
 ---
 
-## 📂 Projects
-
-### 🔹 React Educational Project ⚛️🌐
-- Frontend application created as part of educational teamwork  
-- Technologies: React ⚛️, JavaScript ✨, HTML 🌐, CSS 🎨  
-- Team collaboration and Git-based workflow 🌿  
-
-### 🔹 Discord Bot (in progress) 🤖
-- Backend logic for a Discord bot  
-- Working with APIs 🔌 and automation ⚙️  
-- Language: Python 🐍  
-
-### 🔹 University & Personal Labs 🧪
-- Algorithms 🧠  
-- Data processing 📊  
-- SQL & databases 🗃️  
-- C / C++ programming ⚙️  
-
-> Some repositories are currently private 🔒
-
----
-
 ## 🤝 Team Experience
 
 - Experience working in IT teams during educational projects 👨‍💻👩‍💻  
@@ -75,8 +50,8 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 
 ## 🌍 Languages
 
-- Polish 🇵🇱 — fluent  
-- Ukrainian 🇺🇦 — fluent  
+- Polish 🇵🇱 — B1  
+- Ukrainian 🇺🇦 — native
 - English 🇬🇧 — B1/B2 (technical reading and communication)
 
 ---
@@ -94,8 +69,8 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 
 ## 📫 Contact
 
-- LinkedIn: (add your link) 💼  
-- Email: (add your email) 📧  
+- LinkedIn: [https://www.linkedin.com/in/andrii-korchynskyi-800939397/] 💼 
+- Email: [ankorczyn1@gmail.com] 📧 
 
 ---
 
