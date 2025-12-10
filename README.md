@@ -17,7 +17,8 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 - SQL 🗄️  
 
 ### 🗃️ Databases
-- PostgreSQL 🐘  
+- SQL Databases: PostgreSQL 🐘, SQLite 🪶  
+- NoSQL Databases: MongoDB 🍃  
 
 ### 🖥️ Backend & Tools
 - Git 🌿  
@@ -69,7 +70,10 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/andrii-korchynskyi-800939397/] 💼 
+- LinkedIn: [https://www.linkedin.com/in/andrii-korchynskyi-800939397/] 💼
+- NoFluffJobs: [https://nofluffjobs.com/pl/profile/my-profile] 👨‍💼  
+- Discord: [1nrez] 🎮  
+- Telegram: [i1nrez]✈️  
 - Email: [ankorczyn1@gmail.com] 📧 
 
 ---
