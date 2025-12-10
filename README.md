@@ -73,7 +73,7 @@ I'm a **fast learner**, **responsible**, and highly **motivated** to gain real c
 - LinkedIn: [https://www.linkedin.com/in/andrii-korchynskyi-800939397/] 💼
 - NoFluffJobs: [https://nofluffjobs.com/pl/profile/my-profile] 👨‍💼  
 - Discord: [1nrez] 🎮  
-- Telegram: [i1nrez]✈️  
+- Telegram: [@i1nrez]✈️  
 - Email: [ankorczyn1@gmail.com] 📧 
 
 ---
